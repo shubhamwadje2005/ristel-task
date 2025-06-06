@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "name": "Platinum Comfort Fit",
+        "ringSize": 12,
+        "price": 9035,
+        "discount": "30%",
+        "material": "White Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01955-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Slim Rose Band",
+        "ringSize": 12,
+        "price": 18241,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01960-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Boho Spiral Ring",
+        "ringSize": 6,
+        "price": 11751,
+        "discount": "29%",
+        "material": "Platinum",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01959-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Silver Knot Ring",
+        "ringSize": 12,
+        "price": 13032,
+        "discount": "14%",
+        "material": "Zirconium",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01962-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Platinum Comfort Fit",
+        "ringSize": 6,
+        "price": 16254,
+        "discount": "10%",
+        "material": "Gold & Silver",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01961-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Vintage White Gold Ring",
+        "ringSize": 8,
+        "price": 9732,
+        "discount": "15%",
+        "material": "Gold & Silver",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10211-YGS3P0_11_listfront.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Signature Gold Curve",
+        "ringSize": 8,
+        "price": 18231,
+        "discount": "23%",
+        "material": "Titanium",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01960-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Black Zirconium Ring",
+        "ringSize": 12,
+        "price": 12613,
+        "discount": "28%",
+        "material": "Platinum",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01960-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Slim Rose Band",
+        "ringSize": 11,
+        "price": 16047,
+        "discount": "8%",
+        "material": "Titanium",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10211-YGS3P0_11_listfront.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Diamond Solitaire Ring",
+        "ringSize": 12,
+        "price": 15485,
+        "discount": "17%",
+        "material": "Platinum",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01955-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Contemporary Flat Ring",
+        "ringSize": 5,
+        "price": 7318,
+        "discount": "16%",
+        "material": "18K Gold",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10211-YGS3P0_11_listfront.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Etched Palladium Ring",
+        "ringSize": 9,
+        "price": 6524,
+        "discount": "17%",
+        "material": "Brass",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01958-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Diamond Solitaire Ring",
+        "ringSize": 9,
+        "price": 14984,
+        "discount": "10%",
+        "material": "Titanium",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01957-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Signature Gold Curve",
+        "ringSize": 6,
+        "price": 15011,
+        "discount": "9%",
+        "material": "Gold & Silver",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01961-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Boho Spiral Ring",
+        "ringSize": 11,
+        "price": 6791,
+        "discount": "27%",
+        "material": "Platinum",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01955-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Classic Gold Band",
+        "ringSize": 5,
+        "price": 1514,
+        "discount": "9%",
+        "material": "Palladium",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10056-1YS300_11_listfront.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Signature Gold Curve",
+        "ringSize": 7,
+        "price": 4777,
+        "discount": "20%",
+        "material": "Gold & Silver",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10211-YGS3P0_11_listfront.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Diamond Solitaire Ring",
+        "ringSize": 6,
+        "price": 14819,
+        "discount": "14%",
+        "material": "Gold & Silver",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10211-YGS3P0_11_listfront.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Minimalist Silver Ring",
+        "ringSize": 9,
+        "price": 8580,
+        "discount": "12%",
+        "material": "Sterling Silver",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01961-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Elegant Silver Loop",
+        "ringSize": 7,
+        "price": 4417,
+        "discount": "16%",
+        "material": "18K Gold",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01928-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Beveled Edge Band",
+        "ringSize": 10,
+        "price": 16850,
+        "discount": "12%",
+        "material": "18K Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01928-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Minimalist Silver Ring",
+        "ringSize": 12,
+        "price": 8030,
+        "discount": "22%",
+        "material": "White Gold",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01957-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Engraved Titanium Ring",
+        "ringSize": 9,
+        "price": 15766,
+        "discount": "24%",
+        "material": "Titanium",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01957-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Black Zirconium Ring",
+        "ringSize": 10,
+        "price": 14041,
+        "discount": "9%",
+        "material": "Platinum",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01957-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Engraved Titanium Ring",
+        "ringSize": 12,
+        "price": 13010,
+        "discount": "5%",
+        "material": "Platinum",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01955-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Traditional Wedding Ring",
+        "ringSize": 7,
+        "price": 4039,
+        "discount": "29%",
+        "material": "Brass",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01961-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Diamond Solitaire Ring",
+        "ringSize": 6,
+        "price": 10517,
+        "discount": "30%",
+        "material": "18K Gold",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01958-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Platinum Comfort Fit",
+        "ringSize": 11,
+        "price": 15947,
+        "discount": "19%",
+        "material": "18K Gold",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01962-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Beveled Edge Band",
+        "ringSize": 12,
+        "price": 16375,
+        "discount": "22%",
+        "material": "Rose Gold",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10211-YGS3P0_11_listfront.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Dual Tone Statement Ring",
+        "ringSize": 6,
+        "price": 18342,
+        "discount": "21%",
+        "material": "Gold & Silver",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01961-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Classic Gold Band",
+        "ringSize": 12,
+        "price": 18405,
+        "discount": "19%",
+        "material": "Palladium",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01961-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Silver Knot Ring",
+        "ringSize": 7,
+        "price": 12041,
+        "discount": "20%",
+        "material": "Sterling Silver",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01959-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Dual Tone Statement Ring",
+        "ringSize": 12,
+        "price": 15825,
+        "discount": "24%",
+        "material": "Gold & Silver",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01961-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Elegant Silver Loop",
+        "ringSize": 7,
+        "price": 11340,
+        "discount": "16%",
+        "material": "Zirconium",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01957-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Engraved Titanium Ring",
+        "ringSize": 12,
+        "price": 3638,
+        "discount": "26%",
+        "material": "Rose Gold",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01961-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Classic Gold Band",
+        "ringSize": 7,
+        "price": 3682,
+        "discount": "23%",
+        "material": "Titanium",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01958-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Black Zirconium Ring",
+        "ringSize": 10,
+        "price": 11480,
+        "discount": "5%",
+        "material": "Brass",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01955-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Classic Gold Band",
+        "ringSize": 9,
+        "price": 5585,
+        "discount": "30%",
+        "material": "Brass",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01961-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Boho Spiral Ring",
+        "ringSize": 9,
+        "price": 16760,
+        "discount": "18%",
+        "material": "18K Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01928-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Traditional Wedding Ring",
+        "ringSize": 11,
+        "price": 15167,
+        "discount": "14%",
+        "material": "18K Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01958-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Diamond Solitaire Ring",
+        "ringSize": 6,
+        "price": 8336,
+        "discount": "11%",
+        "material": "Gold & Silver",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10056-1YS300_11_listfront.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Contemporary Flat Ring",
+        "ringSize": 7,
+        "price": 7803,
+        "discount": "19%",
+        "material": "Zirconium",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01961-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 43,
+        "name": "Elegant Silver Loop",
+        "ringSize": 6,
+        "price": 15799,
+        "discount": "18%",
+        "material": "Gold & Silver",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01928-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 44,
+        "name": "Boho Spiral Ring",
+        "ringSize": 6,
+        "price": 11829,
+        "discount": "26%",
+        "material": "Rose Gold",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01959-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 45,
+        "name": "Rose Gold Halo Ring",
+        "ringSize": 5,
+        "price": 16262,
+        "discount": "11%",
+        "material": "Gold & Silver",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01957-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 46,
+        "name": "Slim Rose Band",
+        "ringSize": 8,
+        "price": 1083,
+        "discount": "18%",
+        "material": "Palladium",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01959-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 47,
+        "name": "Black Zirconium Ring",
+        "ringSize": 11,
+        "price": 13535,
+        "discount": "11%",
+        "material": "Zirconium",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01962-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 48,
+        "name": "Black Zirconium Ring",
+        "ringSize": 9,
+        "price": 11984,
+        "discount": "5%",
+        "material": "Rose Gold",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01958-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 49,
+        "name": "Silver Knot Ring",
+        "ringSize": 6,
+        "price": 18410,
+        "discount": "24%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01961-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 50,
+        "name": "Vintage White Gold Ring",
+        "ringSize": 5,
+        "price": 4332,
+        "discount": "22%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01957-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 51,
+        "name": "Vintage White Gold Ring",
+        "ringSize": 5,
+        "price": 16657,
+        "discount": "18%",
+        "material": "Zirconium",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01959-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 52,
+        "name": "Slim Rose Band",
+        "ringSize": 6,
+        "price": 9070,
+        "discount": "12%",
+        "material": "Sterling Silver",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01928-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 53,
+        "name": "Etched Palladium Ring",
+        "ringSize": 11,
+        "price": 7270,
+        "discount": "10%",
+        "material": "Palladium",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01960-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 54,
+        "name": "Engraved Titanium Ring",
+        "ringSize": 5,
+        "price": 13023,
+        "discount": "5%",
+        "material": "Zirconium",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01928-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 55,
+        "name": "Diamond Solitaire Ring",
+        "ringSize": 5,
+        "price": 14844,
+        "discount": "11%",
+        "material": "Gold & Silver",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01955-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 56,
+        "name": "Dual Tone Statement Ring",
+        "ringSize": 7,
+        "price": 18789,
+        "discount": "8%",
+        "material": "White Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01958-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 57,
+        "name": "Contemporary Flat Ring",
+        "ringSize": 12,
+        "price": 18026,
+        "discount": "26%",
+        "material": "Sterling Silver",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01957-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 58,
+        "name": "Rose Gold Halo Ring",
+        "ringSize": 7,
+        "price": 5072,
+        "discount": "10%",
+        "material": "Brass",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01959-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 59,
+        "name": "Black Zirconium Ring",
+        "ringSize": 10,
+        "price": 15807,
+        "discount": "27%",
+        "material": "Brass",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01959-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 60,
+        "name": "Classic Gold Band",
+        "ringSize": 8,
+        "price": 16226,
+        "discount": "15%",
+        "material": "White Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01958-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 61,
+        "name": "Minimalist Silver Ring",
+        "ringSize": 8,
+        "price": 1338,
+        "discount": "14%",
+        "material": "Sterling Silver",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10056-1YS300_11_listfront.jpg"
+    },
+    {
+        "id": 62,
+        "name": "Signature Gold Curve",
+        "ringSize": 8,
+        "price": 13402,
+        "discount": "6%",
+        "material": "Brass",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01955-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 63,
+        "name": "Black Zirconium Ring",
+        "ringSize": 5,
+        "price": 9441,
+        "discount": "6%",
+        "material": "Rose Gold",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01960-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 64,
+        "name": "Slim Rose Band",
+        "ringSize": 6,
+        "price": 8668,
+        "discount": "22%",
+        "material": "White Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01959-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 65,
+        "name": "Boho Spiral Ring",
+        "ringSize": 9,
+        "price": 7991,
+        "discount": "23%",
+        "material": "Rose Gold",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01958-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 66,
+        "name": "Contemporary Flat Ring",
+        "ringSize": 5,
+        "price": 4994,
+        "discount": "20%",
+        "material": "Gold & Silver",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10211-YGS3P0_11_listfront.jpg"
+    },
+    {
+        "id": 67,
+        "name": "Classic Gold Band",
+        "ringSize": 5,
+        "price": 12739,
+        "discount": "14%",
+        "material": "Sterling Silver",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01959-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 68,
+        "name": "Minimalist Silver Ring",
+        "ringSize": 12,
+        "price": 12496,
+        "discount": "24%",
+        "material": "Sterling Silver",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10211-YGS3P0_11_listfront.jpg"
+    },
+    {
+        "id": 69,
+        "name": "Boho Spiral Ring",
+        "ringSize": 5,
+        "price": 1645,
+        "discount": "16%",
+        "material": "Sterling Silver",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10056-1YS300_11_listfront.jpg"
+    },
+    {
+        "id": 70,
+        "name": "Slim Rose Band",
+        "ringSize": 5,
+        "price": 1138,
+        "discount": "26%",
+        "material": "Sterling Silver",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01955-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 71,
+        "name": "Silver Knot Ring",
+        "ringSize": 12,
+        "price": 13577,
+        "discount": "22%",
+        "material": "Sterling Silver",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10056-1YS300_11_listfront.jpg"
+    },
+    {
+        "id": 72,
+        "name": "Boho Spiral Ring",
+        "ringSize": 6,
+        "price": 17905,
+        "discount": "18%",
+        "material": "Sterling Silver",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01955-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 73,
+        "name": "Chunky Statement Ring",
+        "ringSize": 10,
+        "price": 7538,
+        "discount": "18%",
+        "material": "Brass",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01928-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 74,
+        "name": "Beveled Edge Band",
+        "ringSize": 6,
+        "price": 16493,
+        "discount": "21%",
+        "material": "Platinum",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01957-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 75,
+        "name": "Vintage White Gold Ring",
+        "ringSize": 10,
+        "price": 11346,
+        "discount": "15%",
+        "material": "Platinum",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10056-1YS300_11_listfront.jpg"
+    },
+    {
+        "id": 76,
+        "name": "Platinum Comfort Fit",
+        "ringSize": 9,
+        "price": 4867,
+        "discount": "27%",
+        "material": "18K Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10056-1YS300_11_listfront.jpg"
+    },
+    {
+        "id": 77,
+        "name": "Etched Palladium Ring",
+        "ringSize": 11,
+        "price": 16663,
+        "discount": "23%",
+        "material": "Platinum",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01962-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 78,
+        "name": "Traditional Wedding Ring",
+        "ringSize": 9,
+        "price": 12911,
+        "discount": "21%",
+        "material": "Rose Gold",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01958-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 79,
+        "name": "Vintage White Gold Ring",
+        "ringSize": 10,
+        "price": 12576,
+        "discount": "10%",
+        "material": "18K Gold",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01958-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 80,
+        "name": "Signature Gold Curve",
+        "ringSize": 12,
+        "price": 16828,
+        "discount": "20%",
+        "material": "Brass",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01957-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 81,
+        "name": "Dual Tone Statement Ring",
+        "ringSize": 7,
+        "price": 18617,
+        "discount": "14%",
+        "material": "Titanium",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01959-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 82,
+        "name": "Diamond Solitaire Ring",
+        "ringSize": 6,
+        "price": 9057,
+        "discount": "23%",
+        "material": "Platinum",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01959-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 83,
+        "name": "Traditional Wedding Ring",
+        "ringSize": 11,
+        "price": 5991,
+        "discount": "5%",
+        "material": "Titanium",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01958-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 84,
+        "name": "Contemporary Flat Ring",
+        "ringSize": 6,
+        "price": 1529,
+        "discount": "26%",
+        "material": "Zirconium",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01960-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 85,
+        "name": "Contemporary Flat Ring",
+        "ringSize": 10,
+        "price": 16911,
+        "discount": "23%",
+        "material": "18K Gold",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01928-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 86,
+        "name": "Beveled Edge Band",
+        "ringSize": 7,
+        "price": 6837,
+        "discount": "24%",
+        "material": "18K Gold",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01959-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 87,
+        "name": "Chunky Statement Ring",
+        "ringSize": 8,
+        "price": 7004,
+        "discount": "24%",
+        "material": "Brass",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01959-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 88,
+        "name": "Engraved Titanium Ring",
+        "ringSize": 8,
+        "price": 15836,
+        "discount": "23%",
+        "material": "Rose Gold",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10211-YGS3P0_11_listfront.jpg"
+    },
+    {
+        "id": 89,
+        "name": "Signature Gold Curve",
+        "ringSize": 7,
+        "price": 4397,
+        "discount": "12%",
+        "material": "Sterling Silver",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10211-YGS3P0_11_listfront.jpg"
+    },
+    {
+        "id": 90,
+        "name": "Minimalist Silver Ring",
+        "ringSize": 12,
+        "price": 13730,
+        "discount": "5%",
+        "material": "Palladium",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01962-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 91,
+        "name": "Beveled Edge Band",
+        "ringSize": 9,
+        "price": 6056,
+        "discount": "21%",
+        "material": "Zirconium",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01958-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 92,
+        "name": "Slim Rose Band",
+        "ringSize": 5,
+        "price": 10650,
+        "discount": "13%",
+        "material": "Titanium",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01960-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 93,
+        "name": "Rose Gold Halo Ring",
+        "ringSize": 7,
+        "price": 2958,
+        "discount": "13%",
+        "material": "Titanium",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01958-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 94,
+        "name": "Traditional Wedding Ring",
+        "ringSize": 6,
+        "price": 15377,
+        "discount": "8%",
+        "material": "Zirconium",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01955-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 95,
+        "name": "Traditional Wedding Ring",
+        "ringSize": 11,
+        "price": 13722,
+        "discount": "6%",
+        "material": "Palladium",
+        "shopFor": "female",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01958-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 96,
+        "name": "Silver Knot Ring",
+        "ringSize": 8,
+        "price": 5285,
+        "discount": "24%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01928-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 97,
+        "name": "Etched Palladium Ring",
+        "ringSize": 5,
+        "price": 2098,
+        "discount": "29%",
+        "material": "Sterling Silver",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10056-1YS300_11_listfront.jpg"
+    },
+    {
+        "id": 98,
+        "name": "Engraved Titanium Ring",
+        "ringSize": 8,
+        "price": 1594,
+        "discount": "23%",
+        "material": "Palladium",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01960-2Y0000_11_listfront.jpg"
+    },
+    {
+        "id": 99,
+        "name": "Twisted Brass Ring",
+        "ringSize": 11,
+        "price": 17780,
+        "discount": "20%",
+        "material": "Platinum",
+        "shopFor": "other",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR10056-1YS300_11_listfront.jpg"
+    },
+    {
+        "id": 100,
+        "name": "Minimalist Silver Ring",
+        "ringSize": 5,
+        "price": 9816,
+        "discount": "12%",
+        "material": "Palladium",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/K/R/KR01960-2Y0000_11_listfront.jpg"
+    }
+]

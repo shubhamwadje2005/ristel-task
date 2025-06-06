@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Square Nodes Gemstone Open Ring",
+        "ringSize": 12,
+        "price": 9799,
+        "discount": "30%",
+        "material": "White Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR09903-8YP9ES_1_lar.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Maple Glimmer Gemstone Ring",
+        "ringSize": 12,
+        "price": 13203,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR10029-1YS3RS_1_lar.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Shimmering Swirl Gemstone Ring",
+        "ringSize": 12,
+        "price": 12512,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR09903-8YP9ES_1_lar.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Meadow Flame Gemstone Ring",
+        "ringSize": 12,
+        "price": 13686,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR10030-1YS3RS_1_lar.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Marqi Shine Gemstone Ring",
+        "ringSize": 12,
+        "price": 9472,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR09912-8YP9RS_1_lar.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Runaway Gemstone Ring",
+        "ringSize": 12,
+        "price": 10710,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR07937-1YP6SE_1_lar.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Greenish Starlight Diamond Ring",
+        "ringSize": 12,
+        "price": 67146,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR06098-YGP6ES_1_lar.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Juniper Flame Diamond Ring",
+        "ringSize": 12,
+        "price": 33562,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR10136-YGS300_1_lar.jpg"
+    }
+]

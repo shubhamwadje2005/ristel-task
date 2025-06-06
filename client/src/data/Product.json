@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "Square Nodes Gemstone Open Ring",
+        "ringSize": 12,
+        "price": 9799,
+        "discount": "30%",
+        "material": "White Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR09903-8YP9ES_1_lar.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Maple Glimmer Gemstone Ring",
+        "ringSize": 12,
+        "price": 13203,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR10029-1YS3RS_1_lar.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Shimmering Swirl Gemstone Ring",
+        "ringSize": 12,
+        "price": 12512,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR09903-8YP9ES_1_lar.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Meadow Flame Gemstone Ring",
+        "ringSize": 12,
+        "price": 13686,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR10030-1YS3RS_1_lar.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Marqi Shine Gemstone Ring",
+        "ringSize": 12,
+        "price": 9472,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR09912-8YP9RS_1_lar.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Runaway Gemstone Ring",
+        "ringSize": 12,
+        "price": 10710,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR07937-1YP6SE_1_lar.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Greenish Starlight Diamond Ring",
+        "ringSize": 12,
+        "price": 67146,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR06098-YGP6ES_1_lar.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Juniper Flame Diamond Ring",
+        "ringSize": 12,
+        "price": 33562,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR10136-YGS300_1_lar.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Amber Moss Gemstone Ring",
+        "ringSize": 12,
+        "price": 16233,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR10026-1RS3SE_1_lar.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Clover Bead Gemstone Ring",
+        "ringSize": 12,
+        "price": 14178,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR09946-8YP9OO_1_lar.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Greeny Glint Gemstone Open Ring",
+        "ringSize": 12,
+        "price": 10563,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR09897-8YP9ES_1_lar.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Open Pears GemStone Open Ring",
+        "ringSize": 12,
+        "price": 11011,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR09915-8YP9RS_1_lar.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Aalifa Diamond Ring",
+        "ringSize": 12,
+        "price": 79921,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR04187-YGP6E0_1_lar.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Rudelle Gemstone Ring",
+        "ringSize": 12,
+        "price": 82124,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR06168-YGP6E0_1_lar.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Twinkling Triple GemStone Ring ",
+        "ringSize": 12,
+        "price": 16791,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR08149-1YP9SE_1_lar.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Lahari Paisley Diamond Ring",
+        "ringSize": 12,
+        "price": 80784,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR03021-YGP9XE_1_lar.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Riveria Elegant Gemstone Ring",
+        "ringSize": 12,
+        "price": 49083,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR03449-YGP6GR_1_lar.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Majestic Blaze Gemstone Ring",
+        "ringSize": 12,
+        "price": 13636,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR10025-1YS3RS_1_lar.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Petite Bud Diamond Ring ",
+        "ringSize": 12,
+        "price": 10137,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR09904-8YP900_1_lar.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Twin Leaves Open Diamond Ring",
+        "ringSize": 12,
+        "price": 36316,
+        "discount": "20%",
+        "material": "Rose Gold",
+        "shopFor": "male",
+        "image": "https://cdn.caratlane.com/media/catalog/product/J/R/JR05205-YGP600_1_lar.jpg"
+    }
+]
